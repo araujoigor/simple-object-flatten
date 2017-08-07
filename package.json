@@ -1,0 +1,29 @@
+{
+  "name": "simple-object-flatten",
+  "version": "0.0.1",
+  "description": "Simple to use, fast object flattener",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araujoigor/simple-object-flatten.git"
+  },
+  "keywords": [
+    "object",
+    "flatten",
+    "flattener",
+    "object-flatten",
+    "flatten-object"
+  ],
+  "author": "Igor Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/araujoigor/simple-object-flatten/issues"
+  },
+  "homepage": "https://github.com/araujoigor/simple-object-flatten#readme",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}
